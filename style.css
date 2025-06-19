@@ -10,6 +10,15 @@ header {
   padding: 15px 0;
   text-align: center;
 }
+<style>
+  .profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; /* Circle shape */
+    border: 3px solid #4CAF50; /* Green border */
+    object-fit: cover;
+  }
+</style>
 
 nav ul {
   list-style: none;
